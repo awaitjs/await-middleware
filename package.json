@@ -1,0 +1,26 @@
+{
+  "name": "await-middleware",
+  "version": "0.0.1",
+  "description": "middleware(async function (next) { await next(); })",
+  "scripts": {
+    "index": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/module-await/await-middleware.git"
+  },
+  "keywords": [
+    "async",
+    "await",
+    "middleware"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/module-await/await-middleware/issues"
+  },
+  "homepage": "https://github.com/module-await/await-middleware#readme",
+  "devDependencies": {
+    "babel": "^5.8.29"
+  },
+  "dependencies": {}
+}
